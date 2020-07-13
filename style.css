@@ -1,1 +1,37 @@
+h1{
+  text-align: center;
+  margin-bottom: 15px;
+}
+h2{
+  border: 2px solid #E9967A;
+  width: 20%;
+  position: relative;
+   text-align: center;
+  background-color:  #DDA0DD;
+  top: 0px;
+  left: 80%;
+}
+
+.l {
+  border: 2px solid #E9967A;
+  background-color: #FFA07A;
+  width: 95%;
+  height: auto;
+  margin-right: 10px;
+  margin-left:10px;
+  margin-bottom: 15px;
+  color: black;
+}
+p{
+  padding: 10px;
+}
+#j>h2{
+ background-color: #ADD8E6;
+}
+#o>h2{
+background-color: #9ACD32;
+}
+.row {
+  width:100%;
+}
 
